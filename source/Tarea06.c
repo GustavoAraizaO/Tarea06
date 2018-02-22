@@ -29,7 +29,7 @@
  */
  
 /**
- * @file    Tarea06.c
+ * @file    Tarea06_Gustavo Araiza Obeso.c
  * @brief   Application entry point.
  */
 #include <stdio.h>
